@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://jlaskow.github.io//al-folio/sitemap.xml
+User-agent: * Disallow: Sitemap: https://jlaskow.github.io//sitemap.xml
